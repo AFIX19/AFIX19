@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Agamamam</h1>
+<h1 align="center">Hi there 👋, I'm Agam or AFIX19</h1>
 
 <p align="center">
   🚀 Welcome to my GitHub Profile!<br>
