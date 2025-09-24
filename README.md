@@ -77,4 +77,8 @@
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/AFIX19/AFIX19/output/github-contribution-grid-snake.svg)
+
+---
+
 ⭐️ From [AFIX19](https://github.com/AFIX19)
