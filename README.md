@@ -52,8 +52,14 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AFIX19/AFIX19/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/AFIX19/AFIX19/output/github-contribution-grid-snake.svg" alt="snake svg"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AFIX19/AFIX19/output/github-contribution-grid-snake-dark.svg" alt="snake svg dark"/>
+</p>
+
+![snake gif](https://raw.githubusercontent.com/AFIX19/AFIX19/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -77,8 +83,5 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/AFIX19/AFIX19/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐️ From [AFIX19](https://github.com/AFIX19)
